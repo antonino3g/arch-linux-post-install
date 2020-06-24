@@ -105,9 +105,14 @@ PKGS=(
     'galculator'            # Gnome calculator
     'mousepad'              # XFCE simple text editor
     'xpdf'                  # PDF viewer
+    'ntp'                   # Clock
+    'gnome-font-viewer'     # GUI install fonts
+
+    # sudo systemctl enable ntpdate.service
+    # sudo systemctl start ntpdate.service
+    # timedatectl set-ntp true
 
     # THEMES --------------------------------------------------------------
-    # xfce4-popup-whiskermenu ON PRESS Super Buntton
 
     'xfce4-whiskermenu-plugin'
     'materia-gtk-theme'
@@ -115,7 +120,9 @@ PKGS=(
     'gnome-icon-theme'
     'plank'
 
+    # xfce4-popup-whiskermenu ON PRESS Super Buntton
     # plank --preferences
+    # Fonts: Cantarell Regular
 
 )
 
