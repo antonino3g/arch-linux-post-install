@@ -21,19 +21,11 @@ PKGS=(
     'visual-studio-code-bin'    # Kickass text editor
     'android-studio'            # Android Studio
 
-    # MEDIA ---------------------------------------------------------------
+    # PRODUCTIVITY --------------------------------------------------------
 
-    'spotify'                   # Music player
-    'screenkey'                 # Screencast your keypresses
-    # 'aftershotpro3'             # Photo editor
-
-    # POST PRODUCTION -----------------------------------------------------
-
-    'peek'                      # GIF animation screen recorder
-
-    # COMMUNICATIONS ------------------------------------------------------
-
-    'skypeforlinux-stable-bin'  # Skype
+    'mugshot'                   # UX Login XFCE4
+    'gnome-system-tools'        # Extra tools
+    'ocs-url'                   # Working link xfce-look.org
 
     # THEMES --------------------------------------------------------------
 
@@ -48,8 +40,8 @@ PKGS=(
 )
 
 
-cd ${HOME}/AURIC
-chmod +x auric.sh
+cd ${HOME}/yay
+makepkg -si
 
 for PKG in "${PKGS[@]}"; do
     echo "INSTALLING ${PKG}"
