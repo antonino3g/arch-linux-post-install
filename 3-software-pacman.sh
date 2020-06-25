@@ -69,6 +69,7 @@ PKGS=(
     # DEVELOPMENT ---------------------------------------------------------
 
     'dbeaver'               # Database administration tool
+    'docker'                # Docker
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
     'glibc'                 # C libraries
