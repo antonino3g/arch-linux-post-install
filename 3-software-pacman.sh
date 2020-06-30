@@ -45,7 +45,7 @@ PKGS=(
     'gvfs-mtp'              # Disk utility
     'gvfs-smb'              # Disk utility
 
-    # NEW LINE FROM MY FSTAB 
+    # NEW LINE BY MY FSTAB 
     # /dev/sdb3 /home/worness/Arquivos_D/ ntfs-3g umask=000 0 0
 
     # GENERAL UTILITIES ---------------------------------------------------
@@ -92,7 +92,9 @@ PKGS=(
     'audacious'             # Music player
     'simplescreenrecorder'  # Record your screen
     'vlc'                   # Video player
-    'xfce4-screenshooter'   # Screen capture.
+    'xfce4-screenshooter'   # Screen capture
+    'anki'                  # Card Study Method (English)
+    'mplayer'               # Software requested for Anki 
 
     # GRAPHICS AND DESIGN -------------------------------------------------
 
@@ -121,7 +123,7 @@ PKGS=(
     'gnome-icon-theme'
     'plank'
 
-    # xfce4-popup-whiskermenu ON PRESS Super Buntton
+    # xfce4-popup-whiskermenu ON PRESS Super Button
     # plank --preferences
     # Fonts: Cantarell Regular
 
