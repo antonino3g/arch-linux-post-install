@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="new-exemple" src="https://i.ibb.co/S5zHnTc/arch-Linux.png" width="10%">
+    <img alt="new-exemple" src="https://i.ibb.co/S5zHnTc/arch-Linux.png" width="20%">
 </p>
 
 <p align="center">
