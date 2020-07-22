@@ -11,8 +11,14 @@
   </a>
 </p>
 
-## :bulb: Building
+## Don't just run these scripts :warning:
+### Examine them :heavy_check_mark: 
+### Customize them :heavy_check_mark: 
+### Create your own versions :heavy_check_mark:
+
+<br />
+
+**Acknowledgment:** <a href="https://github.com/rickellis">Rick Ellis</a>
 
 -----
 **by Antonino Praxedes 👋🏻 [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
-
