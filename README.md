@@ -18,7 +18,7 @@
 
 <br />
 
-**Acknowledgment:** <a href="https://github.com/rickellis">Rick Ellis</a>
+**Acknowledgment:** [Rick Ellis](https://github.com/rickellis)
 
 -----
 **by Antonino Praxedes 👋🏻 [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
