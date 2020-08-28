@@ -120,6 +120,7 @@ PKGS=(
     'papirus-icon-theme'
     'gnome-icon-theme'
     'plank'
+    'noto-fonts-emoji'	    # Emoji terminal 
 
     # xfce4-popup-whiskermenu ON PRESS Super Buntton
     # plank --preferences
