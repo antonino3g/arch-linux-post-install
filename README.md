@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+    <img src="https://i.ibb.co/zX8rb9j/sreen-shot.png" alt="sreen-shot" width="100%">
+</p>
+
 ## Don't just run these scripts :warning:
 ### Examine them :heavy_check_mark: 
 ### Customize them :heavy_check_mark: 
@@ -20,5 +24,3 @@
 
 **Acknowledgment:** [Rick Ellis](https://github.com/rickellis)
 
------
-**Created by Antonino Praxedes 👋🏻 [Get in touch!](https://www.linkedin.com/in/antoninopraxedes/)**
