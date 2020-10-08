@@ -19,7 +19,6 @@
 ### Examine them :heavy_check_mark: 
 ### Customize them :heavy_check_mark: 
 ### Create your own versions :heavy_check_mark:
-
 <br />
 
 **Acknowledgment:** [Rick Ellis](https://github.com/rickellis)
