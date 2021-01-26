@@ -2,6 +2,7 @@
 #-------------------------------------------------------------------------
 # Arch Linux Post Install Setup and Config
 # Created by Antonino Praxedes 
+# https://youtu.be/29ARF14InaU?t=1 (customization xfce4 Link)
 #--------------------------------------------------------------------------
 
 echo
