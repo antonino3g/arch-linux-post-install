@@ -68,12 +68,13 @@ PKGS=(
 
     # DEVELOPMENT ---------------------------------------------------------
 
-    'dbeaver'               # Database administration tool
+    # 'dbeaver'               # Database administration tool
     'docker'                # Docker
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
     'glibc'                 # C libraries
     'jdk8-openjdk'          # JDK 8
+    'jdk11-openjdk '        # JDK 11
     'nodejs'                # Javascript runtime environment
     'npm'                   # Node package manager
     'python'                # Scripting language
