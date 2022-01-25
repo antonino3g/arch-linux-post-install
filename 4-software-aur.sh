@@ -38,6 +38,13 @@ PKGS=(
     'numix-icon-theme'
     'numix-gtk-theme'
     'sardi-icons'
+    
+     # FLUTTER ------------------------------------------------------------
+    'clang'
+    'cmake'
+    'ninja-build' 
+    'pkg-config' 
+    'libgtk-3-dev'
 )
 
 
